@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on [Distance in Grid Graphs](https://github.com/pallasaisrujan/DistanceInGridGraphs)<br>🌱 I’m currently learning Developing LLMS<br>👨‍💻 All of my projects are available @ Github<br>💬 Ask me about Data Structures and Algorithms, Python, Java, Machine Learning, Web Frameworks, Databases<br>📫 How to reach me spalla01@student.bbk.ac.uk, pallasaisrujanc@gmail.com<br>📄 Know about my experiences @ Resume<br>⚡ Fun fact Always be productive
+🔭 I’m currently working on [Distance in Grid Graphs](https://github.com/pallasaisrujan/DistanceInGridGraphs)<br>🌱 I’m currently learning Developing LLMS<br>👨‍💻 All of my projects are available on [GitHub](https://github.com/pallasaisrujan)<br>💬 Ask me about Data Structures and Algorithms, Python, Java, Machine Learning, Web Frameworks, Databases<br>📫 How to reach me spalla01@student.bbk.ac.uk, pallasaisrujanc@gmail.com<br>📄 Know about my experiences @ Resume<br>⚡ Fun fact Always be productive
+
 
 
 ## 🌐 Socials:
